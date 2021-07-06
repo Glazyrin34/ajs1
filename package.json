@@ -1,0 +1,19 @@
+{
+  "name": "@glazyrin34/ajs1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glazyrin34/ajs1.git"
+  },
+  "author": "Glazyrin Ilya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glazyrin34/ajs1/issues"
+  },
+  "homepage": "https://github.com/Glazyrin34/ajs1#readme"
+}
